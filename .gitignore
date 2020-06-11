@@ -1,0 +1,4 @@
+*.class
+ankiimporttools.iml
+.idea/
+target/
